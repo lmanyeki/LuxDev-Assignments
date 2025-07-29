@@ -1,3 +1,6 @@
+### DEV.to article 
+https://dev.to/tech_it/whos-most-likely-to-win-more-games-in-the-202425-premier-league-season-126i
+
 ### Premier League 2024/25 – Win probability analysis
 This week’s task is to calculate and visualize the **win probability** for all teams in the 2024/25 Premier League season using the [Football-Data API](https://www.football-data.org/).
 
